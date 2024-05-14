@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.fo{
+    text-align: center;
+    font-size: 30px;
+}
